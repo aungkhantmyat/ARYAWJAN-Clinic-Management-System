@@ -1,0 +1,103 @@
+
+
+		
+
+		.headtab{
+		  width: 95%;
+		  margin: 0px auto;
+		  height: auto;
+		  /*background: grey;*/
+		  font-size: 22px;
+		}
+
+		.headtab table {
+		  width: 100%;
+		  margin-top: 50px;
+		  border-collapse: separate;
+		  border-spacing: 0 10px;  
+		}
+
+
+
+		.headtab table tr td:nth-child(1){
+		  text-align: left;
+		  width:35%;
+		  padding-left:15px;
+		  border-right: 1px solid grey;
+		}
+
+		.headtab table tr td:last-child{
+		  text-align: left;
+		  width: 65%;
+		  padding-left: 20px;
+		}
+
+		.headtab table tr{
+		  width: 100%;
+		  height: 55px;
+		  /*background: #f7f7f7;*/
+		  background: #e8e5e5;
+		  /*background: green;*/
+		  cursor: pointer;
+		  overflow: hidden; 
+		  border-bottom: 10px solid #fff;
+		}
+
+		.headtab table tr:hover{
+		  background-color: #ebebeb;
+		  cursor: pointer;
+		}
+
+
+		.headtab tr td:nth-child(1){
+		  border-bottom-left-radius: 10px;
+		  border-top-left-radius: 10px;
+		}
+
+		.headtab tr td:last-child{
+		  border-bottom-right-radius: 10px;
+		  border-top-right-radius: 10px;
+		}
+
+
+
+
+
+		.morecarinfo{
+			width: 700px;
+			height: 850px;
+			background: white;
+			margin: 0px auto;
+			text-align: center;
+			display: none;
+			-webkit-box-shadow: 0px 2px 11px 0.3px rgba(84,78,84,1);
+			-moz-box-shadow: 0px 2px 11px 0.3px rgba(84,78,84,1);
+			box-shadow: 0px 2px 11px 0.3px rgba(84,78,84,1);
+			margin-top: -10px;
+		}
+
+
+
+		 .backtodriverinfo{
+		  display: block;
+		  margin: 0px auto;
+		  width: 95%;
+		  height: 60px;
+		  color: #fff;
+		  text-align: center;
+		  border: none;
+		  box-shadow: none;
+		  border:1px solid #4e4e52;
+		  font-weight: bolder;
+		  background: #4e4e52;
+		  padding: 0 10px 0 10px;
+		  border-radius: 10px;
+		}
+
+		.backtodriverinfo:hover,.backtofirstpage:hover{
+
+		  background: #fff;
+		  color: #222;
+		}   
+
+
