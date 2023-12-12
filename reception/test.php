@@ -1,0 +1,1 @@
+'<?php  echo $row['app_name'] . ',' . $row['app_email'] . ','. $row['app_phone'] . ',' . $row['app_doctor']  ?>'
