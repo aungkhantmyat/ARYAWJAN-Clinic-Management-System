@@ -11,4 +11,5 @@
 5. **Receptionist**: Receptionists can efficiently handle appointment scheduling and billing processes within their accounts.
 6. **Admin**: The admin account enables comprehensive CRUD (Create, Read, Update, Delete) processes for all staff, ambulances, and other clinic inventories.
 
+
 ![webpage](https://github.com/aungkhantmyat/ARYAWJAN-Clinic-Management-System/assets/48421405/18f216dd-668c-4fe6-8b5c-135e535e273c)
