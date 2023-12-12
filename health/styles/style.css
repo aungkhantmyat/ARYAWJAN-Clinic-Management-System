@@ -1,0 +1,109 @@
+/***********
+1. Fonts
+***********/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i,800,900');
+/*/*
+
+
+#links a{
+     color:#000000;
+     font-size:18px;
+}
+.logo
+{
+  width:80px;
+  height:100%;
+  margin:0  auto;
+}
+/*Section */
+
+#intro {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+	background: url("h1.jpg") top center;
+  background-size: cover;
+}
+
+@media (min-width: 1024px) {
+	#intro {
+		background-attachment: fixed;
+	}
+}
+
+.intro-content {
+	background: rgba(0, 0, 0, 0.65);
+  position: absolute;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+	padding: 0 15px;
+}
+
+.intro-content  h2 {
+  color: #d5d5d5;
+  margin-bottom: 30px;
+  font-size: 64px;
+  font-weight: 700;
+}
+
+.intro-content  h3 {
+  color: #d5d5d5;
+  margin-bottom: 30px;
+  font-size: 26px;
+  font-weight: 500;
+}
+
+@media (max-width: 767px) {
+	#intro {
+		height: 100vh;
+    color: #d5d5d5;
+	}
+	.intro-content  h2 {
+		font-size: 34px;
+	}
+}
+
+.btn-get-started {
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 32px;
+  border-radius: 2px;
+  transition: 2s;
+  margin: 10px;
+/*  color: #d5d5d5;*/
+/*	background:#32c69a;*/
+}
+
+.btn-get-started:hover {
+	color: #d5d5d5;
+	background:#32c69a;
+	text-decoration: none;
+}
+
+/*  card */
+
+
+.c1{
+	float: left;
+}
+.c2{
+	float:center;
+}
+.c3{
+	float:right;
+}
+
+
+

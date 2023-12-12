@@ -1,0 +1,24 @@
+.container{
+	font-size: 16px;
+}
+ul.b {
+  list-style-type: disc;
+}
+/*a.x1:hover {
+  color: green;
+}*/
+.bg_img{
+	background-image: url("dirpic.jpeg");
+	
+
+  /* Control the height of the image */
+  
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:100%;
+ 
+
+}
