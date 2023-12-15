@@ -13,3 +13,4 @@
 
 
 ![webpage](https://github.com/aungkhantmyat/ARYAWJAN-Clinic-Management-System/assets/48421405/18f216dd-668c-4fe6-8b5c-135e535e273c)
+_**Note**: You can read the project details [here](https://github.com/aungkhantmyat/ARYAWJAN-Clinic-Management-System/blob/main/Project%20Presentation.pdf)._
